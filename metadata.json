@@ -1,8 +1,0 @@
-{
-  "name": "Xino AI Chatbot",
-  "description": "A futuristic dark-themed AI assistant with multimodal capabilities, featuring voice interaction and advanced file analysis powered by Gemini.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
